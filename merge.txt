@@ -1,0 +1,2 @@
+Merged branch1 and then branch2 and now im making my last commit
+
